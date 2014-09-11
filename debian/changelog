@@ -1,0 +1,7 @@
+r-cran-pkgkitten (0.1.1-1) unstable; urgency=low
+
+  * Initial Debian release 				(Closes: #761142)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 10 Sep 2014 22:00:45 -0500
+
+
