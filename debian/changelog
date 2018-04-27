@@ -1,3 +1,9 @@
+r-cran-pkgkitten (0.1.4-1.2trusty1) trusty; urgency=medium
+
+  * PPA build for r-api-3.5
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 27 Apr 2018 09:07:10 -0500
+
 r-cran-pkgkitten (0.1.4-1.1) unstable; urgency=medium
 
   * Non-maintainer upload.
