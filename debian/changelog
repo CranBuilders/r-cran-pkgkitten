@@ -1,3 +1,25 @@
+r-cran-pkgkitten (0.1.4-2) unstable; urgency=medium
+
+  * Rebuilding for R 3.5.0 transition
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Build-Depends: to 'debhelper (>= 10)'
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 02 Jun 2018 12:13:50 -0500
+
+r-cran-pkgkitten (0.1.4-1.2) unstable; urgency=medium
+
+  * (Inofficial) Rebuild for R 3.5.0
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Add Vcs-Browser: and Vcs-Git:
+  * debian/compat: Increase level to 9
+  * debian/control: Switch from cdbs to dh-r
+  * debian/rules: Idem
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 28 Apr 2018 10:57:58 -0500
+
 r-cran-pkgkitten (0.1.4-1.1) unstable; urgency=medium
 
   * Non-maintainer upload.
